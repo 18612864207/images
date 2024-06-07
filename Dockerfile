@@ -1,1 +1,1 @@
-FROM nginx:1.23-alpine
+FROM gradle:7.5.1-jdk8
